@@ -1,9 +1,20 @@
-void setup() {
-  // put your setup code here, to run once:
+// CAN BUS
+// RPM 
+// Shift lights 
+// Gear
+// Temperatures
+
+#define 
+
+
+void setup() 
+{
+  
 
 }
 
-void loop() {
-  // put your main code here, to run repeatedly:
+void loop()
+{
+  
 
 }
